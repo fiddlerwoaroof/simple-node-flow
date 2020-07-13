@@ -875,9 +875,9 @@ flow-bin@^0.126.1:
   version "0.126.1"
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.126.1.tgz#2726595e1891dc35b379b5994627432df4ead52c"
 
-flow-typed@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-3.1.0.tgz#706992dd71f7481e39aadb5db163d339d16b500c"
+flow-typed@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-3.2.0.tgz#0386680df96e22579329cd4dc033810a403250e4"
   dependencies:
     "@octokit/rest" "^16.43.1"
     colors "^1.4.0"
