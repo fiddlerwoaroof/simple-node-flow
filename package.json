@@ -16,6 +16,6 @@
     "prepublish": "yarn run build"
   },
   "dependencies": {
-    "flow-typed": "^3.1.0"
+    "flow-typed": "^3.2.1"
   }
 }
