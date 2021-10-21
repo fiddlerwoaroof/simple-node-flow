@@ -875,9 +875,9 @@ flow-bin@^0.150.1:
   version "0.150.1"
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.150.1.tgz#a846c2e977c3af035636ce29bf1492c6b7db4ae6"
 
-flow-typed@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-3.3.1.tgz#538bbcf13098916a09731f06ed6c0e5b8aee7303"
+flow-typed@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-3.4.0.tgz#fc87f17a23b1592f03bc680f2f25112fa1fff622"
   dependencies:
     "@octokit/rest" "^16.43.1"
     colors "^1.4.0"
@@ -891,7 +891,6 @@ flow-typed@^3.3.1:
     rimraf "^3.0.2"
     semver "7.3.2"
     table "^5.4.6"
-    through "^2.3.8"
     unzipper "^0.10.8"
     which "^2.0.2"
     yargs "^15.1.0"
@@ -2025,10 +2024,6 @@ tar@^2.2.1:
     block-stream "*"
     fstream "^1.0.12"
     inherits "2"
-
-through@^2.3.8:
-  version "2.3.8"
-  resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
 
 to-fast-properties@^1.0.1, to-fast-properties@^1.0.3:
   version "1.0.3"
